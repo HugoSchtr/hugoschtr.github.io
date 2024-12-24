@@ -7,8 +7,3 @@
 #icon = "home"
 #newtab = true
 
-[social.params]
-icon = "brand-github"
-
-[social.params]
-icon = "brand-twitter"
